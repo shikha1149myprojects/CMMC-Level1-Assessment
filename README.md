@@ -1,3 +1,5 @@
+# CMMC-Level1-Assessment
+
 ## Background
 
 Michael Scott Paper Company is a small business providing paper and associated products. One of their sales team members, Ryan Howard, developed a web application allowing clients to upload files which are then printed on demand and shipped to the client in whatever volume they choose.  This web application has drawn the interest of a US Federal agency, a massive opportunity for the small company.  Before the agency can sign a contract with the Michael Scott Paper Company they have asked for the company to complete a self assessment of the web application and the system it resides on to confirm that it meets CMMC 2.0 Level 1 requirements.
